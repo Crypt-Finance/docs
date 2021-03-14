@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [The Crypt Intro](README.md)
+* [Airdrop](airdrop.md)
 
