@@ -11,3 +11,7 @@
 
 * [Governance](governance/governance.md)
 
+## Guides and FAQ
+
+* [How to use the Crypt with Metamask](guides-and-faq/how-to-use-the-crypt-with-metamask.md)
+
