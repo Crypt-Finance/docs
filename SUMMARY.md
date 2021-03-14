@@ -15,3 +15,7 @@
 
 * [How to use the Crypt with Metamask](guides-and-faq/how-to-use-the-crypt-with-metamask.md)
 
+## Development guide
+
+* [Contributing](development-guide/contributing.md)
+
