@@ -51,6 +51,12 @@ Let's walk through an example:
 * At the end of the month, the $50,000 USD of AVAX is deposited back into a new Pangolin pair with 500,000 RIP tokens
 * The $50,000 USD of PNG is deposited back into a new Pangolin pair with 500,000 RIP tokens.
 
+What happens if the Crypt receives less money than what we're trying to raise? Let's walk through it:
+
+* Over the course of a month $25,000 USD worth of AVAX and $25,000 USD worth of PNG is locked up in PGL and then deposited in the IFO smart contract.
+* At the end of the month, the $25,000 USD of AVAX and $25,000 USD of PNG are deposited back into new Pangolin pools with 250,000 each of RIP tokens.
+* The remaining RIP tokens that haven't been purchased will be burned
+
 ## Token demand
 
 We will create demand via the following mechanisms:

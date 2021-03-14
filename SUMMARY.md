@@ -7,3 +7,7 @@
 
 * [RIP](tokenomics/rip.md)
 
+## Governance
+
+* [Governance](governance/governance.md)
+
