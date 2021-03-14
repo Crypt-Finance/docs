@@ -1,2 +1,2 @@
-# docs
-Our docs
+# Initial page
+
