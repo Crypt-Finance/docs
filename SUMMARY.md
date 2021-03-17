@@ -6,6 +6,7 @@
 ## Tokenomics
 
 * [RIP](tokenomics/rip.md)
+* [Whitepaper](tokenomics/whitepaper.md)
 
 ## Governance
 
@@ -13,7 +14,7 @@
 
 ## Guides and FAQ
 
-* [How to use the Crypt with Metamask](guides-and-faq/how-to-use-the-crypt-with-metamask.md)
+* [How to use Crypt with Metamask](guides-and-faq/how-to-use-the-crypt-with-metamask.md)
 
 ## Development guide
 

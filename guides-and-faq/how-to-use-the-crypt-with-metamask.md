@@ -1,4 +1,4 @@
-# How to use the Crypt with Metamask
+# How to use Crypt with Metamask
 
 Coming soon
 
