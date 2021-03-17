@@ -2,11 +2,12 @@
 
 We have a supply of 10,000,000 RIP with the following allocation:
 
-* 15% to founders
+* 10% to founders
 * 10% to partners and community initiatives 
 * 10% to Community Treasury
+* 10% to [the Giving Block](https://www.thegivingblock.com/)
 * 10% to IFO
-* 55% to the community \(500,000 as an Airdrop\)
+* 50% to the community \(500,000 as an Airdrop\)
 
 ## Founders
 
@@ -38,27 +39,20 @@ The funds held in the community treasury will be controlled by a multisig and wi
 * Community managers
 * Other positions as demand arises
 
+## The Giving Block
+
+A key objective of this project is to create something that leaves the world a better place than the one we've found it in. In this spirit, 10% of the total supply of RIP will be donated to [the Giving Block.](https://www.thegivingblock.com/)
+
+We are also it discussions with them on how we can then enable functinality in Crypt which will allow users to leave a percentage of their Crypto holdings to charities registered through the Giving Block.
+
 ## IFO
 
-We will distribute the initial coins via an Initial Farm Offering. We were hoping that Pangolin would support this feature, but at the current rate, we may launch before this can occur.
+We will distribute the initial coins via an Initial Farm Offering. Currently no DEX on Avalanche supports this functionality. We see this as key to the success of our launch and will engage some funds from the Partners fund \(250,000 RIP\) to fund the Pangolin community developers to build this functionality.
 
-We will implement the IFO using the Liquidity Pools of Pangolin for the AVAX-PNG Pair.
+We will then release 1,000,000 RIP into the IFO as follows:
 
-We value the token at $0.10 USD per RIP.
-
-So anyone interested in purchasing RIP will be able to deposit their PGL tokens into our IFO contract. We will run the IFO for a month and at the end of the month, we will convert all of those locked token into two new Liquidity Pools. RIP-AVAX and RIP-PNG
-
-Let's walk through an example:
-
-* Over the course of a month $50,000 USD worth of AVAX and $50,000 USD worth of PNG is locked  up in PGL and then deposited in the IFO smart contract. 
-* At the end of the month, the $50,000 USD of AVAX is deposited back into a new Pangolin pair with 500,000 RIP tokens
-* The $50,000 USD of PNG is deposited back into a new Pangolin pair with 500,000 RIP tokens.
-
-What happens if the Crypt receives less money than what we're trying to raise? Let's walk through it:
-
-* Over the course of a month $25,000 USD worth of AVAX and $25,000 USD worth of PNG is locked up in PGL and then deposited in the IFO smart contract.
-* At the end of the month, the $25,000 USD of AVAX and $25,000 USD of PNG are deposited back into new Pangolin pools with 250,000 each of RIP tokens.
-* The remaining RIP tokens that haven't been purchased will be burned
+* 500,000 PreSale
+* 500,000 Liquidity
 
 ## Token demand
 
