@@ -6,7 +6,7 @@ We have a supply of 10,000,000 RIP with the following allocation:
 * 10% to partners and community initiatives 
 * 10% to Community Treasury
 * 10% to IFO
-* 55% to the community \(500,000 as an Airdrop\) 
+* 55% to the community \(500,000 as an Airdrop\)
 
 ## Founders
 
@@ -17,10 +17,13 @@ We have set aside these tokens for the founders. These tokens will be locked and
 * 25% after Year 3
 * 25% after Year 4
 
+Currently there are three founders. 
+
 ## Partners and community initiatives
 
 We would like to create partnerships with the following companies:
 
+* [Pangolin](https://pangolin.exchange/)
 * [Copper](https://copper.co/)
 * [Fireblocks](https://www.fireblocks.com/)
 

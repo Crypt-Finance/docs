@@ -2,7 +2,7 @@
 
 ## What is Crypt?
 
-More information will be launched soon. 
+Crypt is a decentralized estate planning application which allows custodial and non custodial execution of the winding up of estates.
 
 ## Why Avalanche
 
