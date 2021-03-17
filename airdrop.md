@@ -2,5 +2,61 @@
 
 We want to ensure that all people that recieve the airdrop can utilise our platform. Since the cost will be 1000 RIP tokens. Each person that gets the airdrop will get 1000 RIP tokens.
 
-Currently only the people that have reached out directly to Hari Seldon on Telegram will be receiving the airdrop. When this documentation goes live to the community, to be eligible you'll need to message Hari Seldon with a screenshot of you promoting the project on Twitter. The link to our Twitter page is [https://twitter.com/0xcryptfi](https://twitter.com/0xcryptfi) 
+The Airdrop is currently only available if you're in our Telegram and/or Discord channel. Eligibility for the Airdrop will end on the 19th March 2021 at 5pm UTC+10.
+
+The current addresses are eligible:
+
+```text
+const airdropRecipients = [
+  "0xebc146CC23b0742B603595f8bEA7dABcbF05840A",
+  "0x1440B55c5a3722e440eeAAE62fd02ff82Da78F59",
+  "0x2Bf5BC87AE8A378833738974B41d696288274443",
+  "0xD125D49F04702758aD50A64463576206DBdaC2d4",
+  "0x3859Fc2aBe68b16669658368bD6Aece648e7456a",
+  "0xebc81492aa41839a81815527054d41FD9Ce0918C",
+  "0x0afdaab23c3feab1441f078ad47ed70dfea4fdb6",
+  "0x3ea9DD246531cdb4586640F73f6f56037Af328F1",
+  "0x9774daC7C89E96b2BE9403AaA9B98dE62B835BbC",
+  "0x6a48ec1612221cfa07dae8c340f25520044aa2e0",
+  "0xd72225c033592b1447e3a19bf457b949d161740a",
+  "0x975474FF64739316c3a4e8E66c791Ce83ca02F38",
+  "0x4EA5eF1207DDEA0e4DE4D480fB1a6765C6edb291",
+  "0x99eE6D18708fe26192C943897F3d0d7C45b628d8",
+  "0xdde0874187a085ee9138793a1825dd2fd13a7d1c",
+  "0xD5eD0DC20Bafc45e9B7C18B310934DeF3cFdF723",
+  "0x0156a7a5f84449bccdf1c7fcbf52cad8200dc783",
+  "0x265401ced8af3e3261491238a86b61405ae3318d",
+  "0xd45d35bC22c19a9979184fC146108eaB0B6AD41c",
+  "0xB50d78b0C608119ad86cFCEEE2b649392A7E482F",
+  "0xc356b22f2f5f08f27AEE64E19eD49873edcA8799",
+  "0x5E1DDBF30651D056d744BA2124a1aB9183Cb74C9",
+  "0x170654e37b07F1B67aDb13b49fb65e57a05e8899",
+  "0x0381f313983B70B0e3CC07d3496146ce4BeC6EC3",
+  "0x9B921faD875b06183d3992A125026c89915D71F6",
+  "0xdc5a68faeaad2c56923d9a6859c0e922374ecfba",
+  "0xA07612c5760BDb5cd4544Aa5c7993E5583Bf6d52",
+  "0x85b452216B053cBB018D9c7C4195da51b600C28E",
+  "0xDAbc72dAc85692e0115257DB423648f0E4D23040",
+  "0x45cC2088e22FA1196d1fBFdbe3E539C76Dc0BF22",
+  "0x8bd0cc8bf9e15fe40cfc36c73c13d158d9930926",
+  "0xdb01820bd17cf207adbbb0532085191a3aee5e81",
+  "0x725C793F53d1022ca7E3Da103ab2bf932F6206CB",
+  "0x9c2E61B43bb14E484a04B6Dd6c26Cc59cc29FcC5",
+  "0x5918644832c9C9F4e53470B83E460195FFA0ef51",
+  "0x164Ef169ba1777af6fF0bb00e1B7f26f59B6eeE8",
+  "0xf816b48A6705C5487f1FBd7c7Ec10dC063568CEF",
+  "0x8C1eDaf53B86d4781F9ec1aAFf9E57F5813c54Fd",
+  "0x86E1Db5308c3A960D7755D6050bF8fBA3deA5261",
+  "0x45dAA4Eff1a56A21f557BD1690fBb7C1334226C6",
+  "0x54692cB1Cb4F48dB074B9fD691c2B44267194184",
+  "0x1D433a6b9e1D4c9371447115B34d92Cdb50F55CD",
+  "0x0f6f9b677b8e59f6a1a1ef714b85b2a33bbdb80c",
+  "0x495165D512a069E8797E9F2EAe7AdB24aE0C7141",
+  "0x930aF2f6D25AD776e7074583D8895E0B8a28bf2F",
+  "0xbe2f4d6eba05291c733d57e925f0e911dc2ca3be",
+  "0xCeBFe02B40a725AA473fe14E6e06629358F8fe42",
+]
+```
+
+If you don't see your address on there, please reach out on Telegram/Discord and let us know.
 
