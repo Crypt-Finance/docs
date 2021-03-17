@@ -20,3 +20,7 @@
 
 * [Contributing](development-guide/contributing.md)
 
+## Contact us
+
+* [Socials](contact-us/socials.md)
+
