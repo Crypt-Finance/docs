@@ -6,7 +6,7 @@
 ## Tokenomics
 
 * [RIP](tokenomics/rip.md)
-* [Whitepaper](tokenomics/whitepaper.md)
+* [Litepaper](tokenomics/whitepaper.md)
 
 ## Governance
 
