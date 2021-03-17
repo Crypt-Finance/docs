@@ -1,6 +1,6 @@
 # Table of contents
 
-* [The Crypt Intro](README.md)
+* [Crypt Intro](README.md)
 * [Airdrop](airdrop.md)
 
 ## Tokenomics
