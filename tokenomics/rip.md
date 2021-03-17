@@ -43,7 +43,7 @@ The funds held in the community treasury will be controlled by a multisig and wi
 
 A key objective of this project is to create something that leaves the world a better place than the one we've found it in. In this spirit, 10% of the total supply of RIP will be donated to [the Giving Block.](https://www.thegivingblock.com/)
 
-We are also it discussions with them on how we can then enable functinality in Crypt which will allow users to leave a percentage of their Crypto holdings to charities registered through the Giving Block.
+We are also in discussions with them on how we can then enable functinality in Crypt which will allow users to leave a percentage of their Crypto holdings to charities registered through the Giving Block.
 
 ## IFO
 
