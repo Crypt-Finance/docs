@@ -49,9 +49,9 @@ A key objective of this project is to create something that leaves the world a b
 
 We are also in discussions with them on how we can then enable functinality in Crypt which will allow users to leave a percentage of their Crypto holdings to charities registered through the Giving Block.
 
-## IFO
+## ITO
 
-We will distribute the initial coins via an Initial Farm Offering. Currently no DEX on Avalanche supports this functionality. We see this as key to the success of our launch and will engage some funds from the Partners fund \(250,000 RIP\) to fund the Pangolin community developers to build this functionality.
+We will distribute the initial coins via an Initial Token Offering. Currently no DEX on Avalanche supports this functionality. We see this as key to the success of our launch and will engage some funds from the Partners fund \(250,000 RIP\) to fund the Pangolin community developers to build this functionality.
 
 We will then release 1,000,000 RIP into the IFO as follows:
 
