@@ -19,6 +19,7 @@
 ## Roadmap
 
 * [Roadmap](roadmap/roadmap.md)
+* [Bounties](roadmap/bounties.md)
 * [Contributing](roadmap/contributing.md)
 
 ## Contact us

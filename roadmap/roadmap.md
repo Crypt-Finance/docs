@@ -1,12 +1,14 @@
 ---
-description: This will describe our major milestones.
+description: >-
+  This will describe our major milestones. For the technical pieces more
+  information can be found on our Github
 ---
 
 # Roadmap
 
 ## Rock Lee
 
-This phase will introduce our branding, marketing and socials. It will also bring about the first iteration of our UX. This will soft launch our product.
+This phase will introduce our branding, marketing and socials. It will also bring about the first iteration of our UX. This will soft launch our product and allow us to create a community.
 
 ### Deliverables:
 
