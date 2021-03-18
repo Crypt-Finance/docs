@@ -22,5 +22,9 @@ Some of the bounties we're considering at the moment are:
 * [ ] Smart contract for ITO \(50,000 RIP\) [https://github.com/Crypt-Finance/smart-contracts/issues/1](https://github.com/Crypt-Finance/smart-contracts/issues/1)
 * [ ] Smart contract for EstateVault \(50,000 RIP\) [https://github.com/Crypt-Finance/smart-contracts/issues/2](https://github.com/Crypt-Finance/smart-contracts/issues/2)
 
+## Legal
+
+* [ ] Review our existing structure and securities implication \(50,000 RIP\)
+
 
 
