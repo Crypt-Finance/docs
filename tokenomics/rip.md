@@ -1,3 +1,7 @@
+---
+description: Overview of RIP's supply and distribution of tokens.
+---
+
 # RIP
 
 We have a supply of 10,000,000 RIP with the following allocation:
@@ -27,8 +31,8 @@ We would like to create partnerships with the following companies:
 * [Pangolin](https://pangolin.exchange/)
 * [Copper](https://copper.co/)
 * [Fireblocks](https://www.fireblocks.com/)
-
-We will also need funds to have our smart contracts audited.
+* [Avascan](https://avascan.info/)
+* [Immunefi](https://immunefi.com/)
 
 ## Community Treasury
 
