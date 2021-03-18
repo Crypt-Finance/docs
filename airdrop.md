@@ -95,7 +95,5 @@ const airdropRecipients = [
 
 If you don't see your address on there, please reach out on Telegram/Discord and let us know.
 
-**Note to future self: Airdrops are a lot of work**
-
 All unclaimed Airdrop tokens will be transferred into the Community treasury.
 
