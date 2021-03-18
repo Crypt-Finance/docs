@@ -58,6 +58,8 @@ We will then release 1,000,000 RIP into the ITO as follows:
 * 500,000 PreSale
 * 500,000 Liquidity
 
+Please see this [post](https://hariseldon2.medium.com/pangolin-ito-initial-token-offering-725d3d22a80) for more information on the proposed ITO we'll be building.
+
 ## Token demand
 
 We will create demand via the following mechanisms:
