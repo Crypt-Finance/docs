@@ -1,7 +1,7 @@
 ---
 description: >-
   This will describe our major milestones. For the technical pieces more
-  information can be found on our Github
+  information can be found on our Github.
 ---
 
 # Roadmap
@@ -31,12 +31,20 @@ This phase will start our journey into being the first ITO launched on Pangolin
 * [ ] Funding the Pangolin team to deliver ITO
 * [ ] Launch Crypt on Pangolin
 * [ ] Final prototype with branding included for community review
+* [ ] Coingeck listing
+* [ ] Coinmarketcap listing
+
+## Shikamaru
+
+### Deliverables
+
+* [ ] Partnership with a custodial wallet provider
+* [ ] Governance live on Snapshot
+* [ ] First version live on mainnet
 
 ## Naruto
 
 ### Deliverables
 
-* [ ] Governance live on Snapshot
-* [ ] First version live
-* [ ] Multichain design
+* [ ] Multichain
 
