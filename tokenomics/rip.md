@@ -53,7 +53,7 @@ We are also in discussions with them on how we can then enable functinality in C
 
 We will distribute the initial coins via an Initial Token Offering. Currently no DEX on Avalanche supports this functionality. We see this as key to the success of our launch and will engage some funds from the Partners fund \(250,000 RIP\) to fund the Pangolin community developers to build this functionality.
 
-We will then release 1,000,000 RIP into the IFO as follows:
+We will then release 1,000,000 RIP into the ITO as follows:
 
 * 500,000 PreSale
 * 500,000 Liquidity
