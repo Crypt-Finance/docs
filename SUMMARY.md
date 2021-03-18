@@ -16,9 +16,10 @@
 
 * [How to use Crypt with Metamask](guides-and-faq/how-to-use-the-crypt-with-metamask.md)
 
-## Development guide
+## Roadmap
 
-* [Contributing](development-guide/contributing.md)
+* [Roadmap](roadmap/roadmap.md)
+* [Contributing](roadmap/contributing.md)
 
 ## Contact us
 
