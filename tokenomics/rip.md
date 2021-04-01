@@ -59,7 +59,7 @@ The first bounties are:
 * Implement the Prototype in React \(100,000 RIP\)
 * Implement the Will Smart Contract \(100,000 RIP\)
 * Implement the [Compound governance](https://github.com/compound-finance) with Quadratic voting \(100,000 RIP\)
-* Implement [Staking](https://docs.cream.finance/smart-contract-address) \(100,000 RIP\)
+* Implement [Staking](https://docs.cream.finance/smart-contract-address) \(50,000 RIP\)
 * Community manager \(variable based on Milestones such as Discord, Twitter membership\)
 
 ## The Giving Block
@@ -81,12 +81,12 @@ Please see this [post](https://hariseldon2.medium.com/pangolin-ito-initial-token
 
 ## Community 
 
-We have set aside these tokens for the community. These tokens will be locked and released in [TrustSwap Smart Locks](https://team.finance/).
+We have set aside these tokens for the community. These tokens will be locked and released in [TrustSwap Smart Locks](https://team.finance/). Since we have staking rewards as detailed below, it will be impossible to accurately predict the amount of tokens to be unlocked. Therefore these figures are what we think may be the case.
 
 * 25% after Year 1 \(1,250,000 RIP\)
 * 25% after Year 2 \(1,250,000 RIP\)
 * 25% after Year 3 \(1,250,000 RIP\)
-* 25% after Year 4 \(1,250,000 RIP\)
+* 25% after Year 4 \(Remainder\)
 
 ## Token demand
 
