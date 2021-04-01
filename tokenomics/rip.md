@@ -10,17 +10,17 @@ We have a supply of 10,000,000 RIP with the following allocation:
 * 10% to partners and community initiatives 
 * 10% to Community Treasury
 * 10% to [the Giving Block](https://www.thegivingblock.com/)
-* 10% to IFO
-* 50% to the community \(500,000 as an Airdrop\)
+* 10% to ITO
+* 50% to the community 
 
 ## Founders
 
-We have set aside these tokens for the founders. These tokens will be locked and released:
+We have set aside these tokens for the founders. These tokens will be locked and released in [TrustSwap Smart Locks](https://team.finance/).
 
-* 25% after Year 1
-* 25% after Year 2
-* 25% after Year 3
-* 25% after Year 4
+* 25% after Year 1 \(250,000 RIP\)
+* 25% after Year 2 \(250,000 RIP\)
+* 25% after Year 3 \(250,000 RIP\)
+* 25% after Year 4 \(250,000 RIP\)
 
 Currently there are three founders. 
 
@@ -34,6 +34,8 @@ We would like to create partnerships with the following companies:
 * [Avascan](https://avascan.info/)
 * [Immunefi](https://immunefi.com/)
 
+The funds will be used to achieve these partnership deals.
+
 ## Community Treasury
 
 The funds held in the community treasury will be controlled by a multisig and will be used to hire:
@@ -43,11 +45,26 @@ The funds held in the community treasury will be controlled by a multisig and wi
 * Community managers
 * Other positions as demand arises
 
+### Current Distribution plans
+
+* 116,000 RIP to the eligible Airdrop recipients \(1,000 RIP each\)
+* 20,000 for early communities who complete a survey on the prototype \(1,000 RIP each\)
+
+### Bounties
+
+We will be offering bounties for delivering key pieces of functionality.
+
+The first bounties are:
+
+* Implement the Prototype in React \(100,000 RIP\)
+* Implement the Will Smart Contract \(100,000 RIP\)
+* Community manager \(variable based on Milestones such as Discord, Twitter membership\)
+
 ## The Giving Block
 
 A key objective of this project is to create something that leaves the world a better place than the one we've found it in. In this spirit, 10% of the total supply of RIP will be donated to [the Giving Block.](https://www.thegivingblock.com/)
 
-We are also in discussions with them on how we can then enable functinality in Crypt which will allow users to leave a percentage of their Crypto holdings to charities registered through the Giving Block.
+We are also in discussions with them on how we can then enable functionality in Crypt which will allow users to leave a percentage of their Crypto holdings to charities registered through the Giving Block.
 
 ## ITO
 
@@ -59,6 +76,15 @@ We will then release 1,000,000 RIP into the ITO as follows:
 * 500,000 Liquidity
 
 Please see this [post](https://hariseldon2.medium.com/pangolin-ito-initial-token-offering-725d3d22a80) for more information on the proposed ITO we'll be building.
+
+## Community 
+
+We have set aside these tokens for the community. These tokens will be locked and released in [TrustSwap Smart Locks](https://team.finance/).
+
+* 25% after Year 1 \(1,250,000 RIP\)
+* 25% after Year 2 \(1,250,000 RIP\)
+* 25% after Year 3 \(1,250,000 RIP\)
+* 25% after Year 4 \(1,250,000 RIP\)
 
 ## Token demand
 
