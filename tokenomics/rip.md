@@ -58,6 +58,8 @@ The first bounties are:
 
 * Implement the Prototype in React \(100,000 RIP\)
 * Implement the Will Smart Contract \(100,000 RIP\)
+* Implement the [Compound governance](https://github.com/compound-finance) with Quadratic voting \(100,000 RIP\)
+* Implement [Staking](https://docs.cream.finance/smart-contract-address) \(100,000 RIP\)
 * Community manager \(variable based on Milestones such as Discord, Twitter membership\)
 
 ## The Giving Block
