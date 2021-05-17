@@ -32,5 +32,15 @@ If John chooses a lawyer, he'll be linked to a local lawyer that has signed up w
 * All his beneficiaries have to sign a multisig in order to distribute the funds.
 * If consensus is not reached, then the funds transfer to a custodial estate to be distributed according to local legislation
 
+## Building Crypt
+
+Crypt will be built by the community and owned by the community.
+
+As such we will look to partner with Figment to host the course and distribute the tokens.
+
+### Course layout
+
+
+
 
 

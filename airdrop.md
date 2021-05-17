@@ -1,8 +1,6 @@
 # Airdrop
 
-We want to ensure that all people that receive the airdrop can utilise our platform. Since the cost will be 1000 RIP tokens. Each person that gets the airdrop will get 1000 RIP tokens.
-
-The Airdrop is currently only available if you're in our Telegram and/or Discord channel. Eligibility for the Airdrop will end on the 19th March 2021 at 5pm UTC+10. We got 116 eligible addresses.
+We are changing the direction of Crypt. We will still reward the original eligible addresses. However we will be creating a new airdrop strategy over the upcoming months.
 
 The current addresses are eligible:
 
