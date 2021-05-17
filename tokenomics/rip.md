@@ -6,8 +6,8 @@ description: Overview of RIP's supply and distribution of tokens.
 
 We have a supply of 10,000,000 RIP with the following allocation:
 
-* 40% to Students completing courses
-* 20% to Lecturers 
+* 50% to Students completing courses
+* 10% to Lecturers 
 * 10% Airdrop
 * 10% to Community Treasury
 * 10% to [the Giving Block](https://www.thegivingblock.com/)
