@@ -40,7 +40,24 @@ As such we will look to partner with Figment to host the course and distribute t
 
 ### Course layout
 
+* [ ] Tokenomics - Sasquatch
+* [ ] Legal implications and best practises - Pablo
+* [ ] Building the smart contracts - Brandon
+* [ ] Building the web3 front end - Robi
+* [ ] User experience and interface - MetaFox
+* [ ] Community building - Leo
+* [ ] Creating the token - Connor
+* [ ] Security best practises - Danilo
+* [ ] Testing framework - Deni1000
+* [ ] Launching - Mark
 
+1 million RIP will be set aside for the lecturers. Since we have 10 subjects, it will be 100,000 RIP per subject.
+
+Subjects will be delivered with a video, as well as a test for the students to complete.
+
+Then 5,000,000 RIP will be set aside for students. The aim of the course is to get 500 students to finish the course.
+
+As such each student that completes the course, will receive 10,000 RIP.
 
 
 
